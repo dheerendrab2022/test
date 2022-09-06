@@ -1,0 +1,26 @@
+
+* Install git 
+* Craete git acc on git hiub 
+* Create repositry 
+
+--------------------------------
+
+copy con >> for create file use ctrl + z to save 
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+git init >> folder / file initialize
+
+git status >> chaeck file status 
+
+git add file_name >> single file add
+
+git add . >> multiple file add 
+
+git commit -m "msg" >> for given msg 
+
+git remote add origin git-repositry-file-path >> create origin 
+
+git push -u origin master >> for push file in repositry
+
