@@ -24,3 +24,4 @@ git remote add origin git-repositry-file-path >> create origin
 
 git push -u origin master >> for push file in repositry
 
+
